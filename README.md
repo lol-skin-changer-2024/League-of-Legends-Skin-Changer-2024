@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/lol-skin-changer-2024/League-of-Legends-Skin-Changer-2024/raw/main/league%20of%20legends.gif" alt="League of Legends Skin Changer 2024 Banner" width="100%">
+  <img src="https://github.com/lol-skin-changer-2024/League-of-Legends-Skin-Changer-2024/raw/main/league%20of%20legends.gif" alt="Banner for League of Legends Skin Changer 2024 showcasing in-game skin customization" width="100%">
 </div>
 
 <div align="center">
