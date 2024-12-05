@@ -28,7 +28,7 @@
     <img src="https://user-images.githubusercontent.com/58574988/134170370-c827d712-fcc7-432f-b9f8-96678b0c9bf6.gif" alt="League of Legends Skin Changer 2024">
 </div>  
 
-🎮 **Features:**
+🎮 **League of Legends Skin Changer 2024 Features:**
 - 🛠️ Easy and safe installation process.
 - 🎨 Support for all the latest skins and custom skins.
 - ⚡ Seamless integration with League of Legends client.
