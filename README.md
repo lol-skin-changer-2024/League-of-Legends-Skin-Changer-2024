@@ -25,7 +25,7 @@
 ## 🎥 Showcase  
 <div align="center">
     <h3>Live Demonstration of Skin Changer</h3>
-    <img src="https://user-images.githubusercontent.com/58574988/134170370-c827d712-fcc7-432f-b9f8-96678b0c9bf6.gif">
+    <img src="https://user-images.githubusercontent.com/58574988/134170370-c827d712-fcc7-432f-b9f8-96678b0c9bf6.gif" alt="League of Legends Skin Changer 2024">
 </div>  
 
 🎮 **Features:**
